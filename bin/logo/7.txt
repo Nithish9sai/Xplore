@@ -20,7 +20,7 @@ XXXXXXX       XXXXXXX p::::::pppppppp    llllllll   ooooooooooo    rrrrrrr      
                       p:::::p                                                                                  
                      p:::::::p                                                                                 
                      p:::::::p                                                                                 
-                     p:::::::p                       - A Google Hacking tool coded by Hari kiran            
+                     p:::::::p                       - A Google Hacking tool coded by Nithish            
                      ppppppppp                                                                                 
                                                                                                                
 

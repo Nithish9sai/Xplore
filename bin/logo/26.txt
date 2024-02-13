@@ -5,6 +5,6 @@ db    db d8888b. db       .d88b.  d8888b. d88888b
 .8P  Y8. 88      88booo. `8b  d8' 88 `88. 88.          
 YP    YP 88      Y88888P  `Y88P'  88   YD Y88888P      
           
-        - A Google Hacking tool coded by Hari kiran 
+        - A Google Hacking tool coded by Nithish 
                                                        
 

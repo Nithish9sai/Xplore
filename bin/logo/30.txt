@@ -5,4 +5,4 @@ Y88b    /           888
  /  Y88b  888  888P 888 Y888   ' 888    Y888    ,       
 /    Y88b 888-_88"  888  "88_-~  888     "88___/        
           888                                           
-               - A Google Hacking tool coded by Hari kiran
+               - A Google Hacking tool coded by Nithish

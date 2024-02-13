@@ -82,17 +82,17 @@ def main():
 
     if (args.output is None):  # non empty parameter pass
         print("[+] For help press -h or --help")
-        print("[+] Read the documentation from https://github.com/A2hari/Xplore for more help")
+        print("[+] Read the documentation from https://github.com/Nithish9sai/Xplore.git for more help")
         exit()
     if (args.file is not None):
         try:
             if (os.stat(args.file).st_size == 0):
                 print("\n[+] " + args.file + " is empty ")
-                print("[+] Read the documentation from https://github.com/A2hari/Xplore for more help")
+                print("[+] Read the documentation from https://github.com/Nithish9sai/Xplore.git for more help")
                 exit()
         except FileNotFoundError:
             print("[+] No such file or directory :" + args.file)
-            print("[+] Read the documentation from https://github.com/A2hari/Xplore for more help")
+            print("[+] Read the documentation from https://github.com/Nithish9sai/Xplore.git for more help")
             exit()
 
     dork = input("Enter the target url/file dork : ")

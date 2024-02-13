@@ -5,5 +5,5 @@
    {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|  
    /o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'. 
 
-                  - A Google Hacking tool coded by Hari kiran
+                  - A Google Hacking tool coded by Nithish
 

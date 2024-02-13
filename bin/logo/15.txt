@@ -4,4 +4,4 @@
  /   |/ /_/ / / /_/ / /  /  __/     
 /_/|_/ .___/_/\____/_/   \___/      
     /_/                             
-   - A Google Hacking tool coded by Hari kiran
+   - A Google Hacking tool coded by Nithish

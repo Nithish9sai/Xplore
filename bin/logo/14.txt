@@ -12,4 +12,4 @@ _____      _____ ___|\    \  |    |          ____|\    \    ___|\    \   ___|\  
   \(        )/    \(           \(    )/        \(    )/      \(     )/    \( |_____|/       
    '        '      '            '    '          '    '        '     '      '    )/          
                                                                                 '           
-                                   - A Google Hacking tool coded by Hari kiran
+                                   - A Google Hacking tool coded by Nithish

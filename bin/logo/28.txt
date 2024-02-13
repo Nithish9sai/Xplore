@@ -6,4 +6,4 @@ _________________________________________
 _/_|_____/___/_/___(___/_/_____(___ _____
         /                                
        /                                 
-           - A Google Hacking tool coded by Hari kiran
+           - A Google Hacking tool coded by Nithish

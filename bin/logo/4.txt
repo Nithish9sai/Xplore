@@ -3,4 +3,4 @@
  )  (  )___/ )(__  )(_)(  )   / )__)   
 (_/\_)(__)  (____)(_____)(_)\_)(____)  
       
-        - A Google Hacking tool by Hari kiran
+        - A Google Hacking tool by Nithish

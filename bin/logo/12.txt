@@ -6,4 +6,4 @@
  /  \   \  /|__/ \    ( \_|:  \\        /  |:  __   \ (:      "|    
 |___/\___|(_______)    \_______)\"_____/   |__|  \___) \_______)    
                                                                     
-                      - A Google Hacking tool coded by Hari kiran
+                      - A Google Hacking tool coded by Nithish
